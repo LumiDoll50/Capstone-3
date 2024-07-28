@@ -1,0 +1,30 @@
+Model Metrics File
+
+Model: Lasso 
+
+Hyperparameters 
+alpha: [0.1]
+Performance Metrics
+Mean Squared Error: 2352.6644926868353
+R^2 Score: 0.9821256159179069
+
+Feature importances (coefficients):
+customer_total_orders                          215.252511
+customer_average_order_value                     0.996542
+customer_tenure_days                            -0.135117
+customer_recency_days                           -0.005780
+customer_unique_products                       -23.165139
+customer_category_diversity                    -36.326213
+customer_average_product_price                   0.019940
+customer_total_units                            44.375431
+customer_average_delivery_time                   0.025581
+customer_average_shipping_cost                   0.044946
+customer_on_time_delivery_rate                   0.000000
+customer_average_installments                   -0.023971
+customer_total_payment_transactions             -4.653858
+customer_preferred_payment_type_boleto           0.415812
+customer_preferred_payment_type_credit_card      0.000000
+customer_preferred_payment_type_debit_card      -0.000000
+customer_preferred_payment_type_voucher        -25.427313
+
+
