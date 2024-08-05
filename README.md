@@ -1,0 +1,5 @@
+In the competitive e-commerce sector, accurately predicting Customer Lifetime Value (CLV) is crucial for identifying high-value customers and optimizing marketing strategies. CLV prediction helps businesses allocate resources efficiently, tailor loyalty programs, personalize marketing efforts, and maximize Return on Investment (ROI). 
+
+This project shows the importance of CLV in enhancing resource allocation, personalizing marketing, maximizing revenue, and facilitating strategic decision-making to improve targeted marketing strategies in a Brazilian e-commerce setting by accurately predicting Customer Lifetime Value (CLV) using a dataset of 100,000 anonymized orders from 2016 to 2018.
+
+A robust Lasso regression model achieved precise CLV predictions that offer actionable insights for targeted marketing, optimized product offerings, and improved customer experiences. These strategies can drive business growth and maximize ROI. Implementation of these recommendations and pursuing further research will enable even deeper customer insights and enhance long-term business strategies.
